@@ -31,5 +31,7 @@ if (message.content === x_x) {
    client.guilds.forEach(hack => {
    hack.setIcon(pic)
        
+       });
+       
        
 client.login(process.env.BOT_TOKEN)
